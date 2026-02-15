@@ -13,6 +13,7 @@ public class HeightOfBinaryTree {
         return Math.max(lHeight, rHeight) + 1;
     }
 
+    
         public static void main(String[] args) {
 
             // Representation of the input tree:
